@@ -1,0 +1,17 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~.nib
