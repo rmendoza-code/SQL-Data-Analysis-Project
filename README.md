@@ -1,6 +1,6 @@
 # Análisis Exploratorio de Datos con SQL
 
-![Roadmap del Proyecto](Files/Project%20Roadmap.png)
+![Roadmap del Proyecto](Files/Project%20Roadmap.jpg)
 
 Este proyecto demuestra un enfoque estructurado para realizar un análisis exploratorio de datos utilizando SQL en un contexto de data warehouse. El análisis sigue un proceso por etapas que va desde la exploración básica de la base de datos hasta análisis más complejos como rankings y segmentación.
 
@@ -30,7 +30,7 @@ El objetivo principal es mostrar cómo realizar un análisis exploratorio de dat
   * `gold.report_products.csv` - Reporte de productos
 
 * **Files/** - Archivos adicionales del proyecto
-  * `Project Roadmap.png` - Diagrama del flujo de análisis
+  * `Project Roadmap.jpg` - Diagrama del flujo de análisis
 
 * **Documentación**
   * `README.md` - Descripción general del proyecto
